@@ -1,17 +1,17 @@
-# dotdict
+# dictdot
 
 A Python library that provides dot-notation access to dictionary attributes.
 
 ## Installation
 
 ```bash
-pip install python-dotdict
+pip install dictdot
 ```
 
 ## Usage
 
 ```python
-from dotdict import dotdict
+from dictdot import dotdict
 
 # Create a dot-notation accessible dictionary
 data = dotdict({

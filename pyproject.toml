@@ -3,7 +3,7 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "python-dotdict"
+name = "python-dictdot"
 version = "0.1.0"
 description = "A Python library that provides dot-notation access to dictionary attributes"
 readme = "README.md"
@@ -20,7 +20,7 @@ requires-python = ">=3.0"
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/ulrikforsgren/dotdict"
+Homepage = "https://github.com/ulrikforsgren/dictdot.git"
 
 [tool.setuptools]
-packages = ["dotdict"]
+packages = ["dictdot"]
