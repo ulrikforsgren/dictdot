@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-import sys
-
 # TODO: When a list is returned it should be encapsulated in a dict_dot.List.
 #       This to make the use of a.b.c[2].d.e
 #       How to do with tuple and set?!
