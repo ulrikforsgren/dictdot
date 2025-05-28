@@ -64,7 +64,7 @@ The package includes a comprehensive test suite. To run the tests:
 pip install -e .[test]
 
 # Run tests
-python -m unittest discover -s tests -v
+pytest
 ```
 
 ## License
